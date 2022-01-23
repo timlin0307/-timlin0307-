@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=timlin0307&theme=omni&show_icons=true&count_private=true&hide_border=true&custom_title=Sasaki+Yamato+Github+Stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=timlin0307&theme=omni&show_icons=true&count_private=true&hide_border=true&custom_title=YTL's+Github+Stats)
 <!--![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timlin0307&theme=omni&layout=compact&card_width=445&count_private=true&hide_border=true)-->
 
 
