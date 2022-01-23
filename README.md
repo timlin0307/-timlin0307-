@@ -1,9 +1,9 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=ghnmqdtg&theme=omni&show_icons=true&count_private=true&hide_border=true&custom_title=Tweizh's+Github+Stats)
-<!--![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghnmqdtg&theme=omni&layout=compact&card_width=445&count_private=true&hide_border=true)-->
+![Stats](https://github-readme-stats.vercel.app/api?username=timlin0307&theme=omni&show_icons=true&count_private=true&hide_border=true&custom_title=Sasaki+Yamato+Github+Stats)
+<!--![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timlin0307&theme=omni&layout=compact&card_width=445&count_private=true&hide_border=true)-->
 
 
 <!--
-**ghnmqdtg/ghnmqdtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**timlin0307/timlin0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
